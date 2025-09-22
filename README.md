@@ -1,1 +1,14 @@
-# best-optimize-for-windows-10-11-by-sh.ero0
+# best-optimize-for-windows-10-11_Bysh.ero0
+
+warning???_ just open app with run as administrator 
+
+
+and go to windows power shill  open run as administrator type;; irm christitus.com/win | iex
+
+White for opining tewak 
+after open tweak click tweak 
+and click standard 
+and run finish 
+ go back windows powershill
+  white for finishing  tweak 
+  after  finsh tweak restart yor computer 
