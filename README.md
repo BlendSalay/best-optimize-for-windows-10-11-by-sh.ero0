@@ -11,4 +11,4 @@ and click standard
 and click run tweak 
  go back windows powershill
   white for finishing  tweak 
-  after  finsh tweak restart yor computer 
+  after  restart yor computer 
