@@ -8,7 +8,7 @@ and go to windows power shill  open run as administrator type;; irm christitus.c
 White for opining tewak 
 after open tweak click tweak 
 and click standard 
-and run finish 
+and click run tweak 
  go back windows powershill
   white for finishing  tweak 
   after  finsh tweak restart yor computer 
